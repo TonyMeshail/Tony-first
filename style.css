@@ -1,0 +1,18 @@
+h3{
+    color: #AAA;
+}
+.bookbox{
+    background-color: #EEE ;
+}
+
+footer {
+    margin-top: 25px;
+}
+
+footer p {
+    border-top: 1px solid;
+    padding-top: 5px;
+}
+.disp{
+    background: linear-gradient(#eee, #fff);
+}
